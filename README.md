@@ -23,11 +23,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imrancoder&count_private=true&show_icons=true)
 
-![Imran's GitHub stats](https://github-readme-stats-xi-rosy.vercel.app/api?username=imrancoder&show_icons=true&theme=radical&count_private=true&show_icons=true)
+![Imran's GitHub stats](https://github-readme-stats-xi-rosy.vercel.app/api?username=imrancoder&show_icons=true&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrancoder&layout=compact&count_private=true&show_icons=true)
-
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrancoder&show_icons=true&locale=en" alt="imrancoder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrancoder&" alt="imrancoder" /></p> -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrancoder&layout=compact&count_private=true&show_icons=true)-->
